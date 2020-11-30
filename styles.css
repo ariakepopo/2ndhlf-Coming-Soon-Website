@@ -11,7 +11,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-family: "Monument Extended";
+    font-family: "Monument Extended", sans-serif;
     text-transform: uppercase;
     font-size: 100px;
     z-index: -1;
@@ -35,7 +35,7 @@ body {
 }
 
 .text {
-    font-family: "Monument Extended";
+    font-family: "Monument Extended", sans-serif;
     font-weight: lighter;
     font-size: 54px;
 }
