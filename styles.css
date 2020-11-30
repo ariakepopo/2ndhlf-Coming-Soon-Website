@@ -34,15 +34,14 @@ p {
     margin-bottom: 24px;
 }
 
-.social-media a {
-    font-size: 24px;
+.socialmedia a {
+    font-size: 26px;
     margin: 0 10px 0 0;
     color: #231F20;
     text-decoration: none;
-    z-index: -1;
 }
 
-.social-media a:hover { 
+.socialmedia a:hover { 
     color: #5E5B5D; 
 }
 
