@@ -16,7 +16,8 @@ body {
 
 .header-text {
     font-family: 'Monument Extended', sans-serif;
-    font-weight: 400;
+    font-weight: 800;
+    color: #231F20;
     text-transform: uppercase;
     font-size: 100px;  
 }    
@@ -24,11 +25,13 @@ body {
 p {
     font-family: 'Monument Extended', sans-serif;
     font-weight: 400;
+    color: #5E5B5D;
 }
 
 .body-logo {
-    width: 180px;
-    height: 140px;
+    width: 455px;
+    height: 120px;
+    margin-bottom: 24px;
 }
 
 .container {
